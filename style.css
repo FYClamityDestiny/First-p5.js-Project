@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+  }
+  
+  canvas {
+    border: 3px solid rgb(100, 183, 235) !important;
+    border-radius: 8px;
+  }
+  
